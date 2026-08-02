@@ -1,6 +1,6 @@
 # rugby-england
 
-This repository contains csv results and fixtures for the top-tier of English Rugby: the Gallagher Premiership (previously known as the Aviva Premiership, Guinness Premiership or Zurich Premiership). The repository contains matches from the 2008-09 season to the present day.
+This repository contains csv results and fixtures for the top-tier of English Rugby: Prem Rugby (previously known as the Gallagher Premiership, Aviva Premiership, Guinness Premiership or Zurich Premiership). The repository contains matches from the 2008-09 season to the present day.
 Many of the headings are self-explanatory. Information has been gathered from the Wikipedia pages for each season of the tournament.
 
 
@@ -16,3 +16,5 @@ Many of the headings are self-explanatory. Information has been gathered from th
 **Caveats and limitations**
 
 There may be some inaccuracies with the date of each match. While most matches take place over a Friday/Saturday/Sunday of a weekend, many of the dates in the _result_ files and all the dates in the _fixtures_ file will default to the Saturday of that weekend.
+
+Some teams have undergone name changes e.g. Newcastle Falcons to Newcastle Red Bulls. To ensure consistency with the same team being identified in each file, the _old_ team name will be applied across the _fixtures_ files.
